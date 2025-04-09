@@ -1,0 +1,6 @@
+Patient Name   : bhanu
+Patient Age    : 18
+Department     : Cardiology
+Doctor         : Dr. Barbara Lee
+Appointment    : 11:00 AM
+--------------------------------------
